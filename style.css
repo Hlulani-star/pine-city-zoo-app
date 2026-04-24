@@ -4,7 +4,7 @@ body{
     font-family: Helvetica;
 }
 
-/*##################### HEADER ###############*/
+/* HEADER */
 #header{
     position: fixed;
     top: 0;
@@ -23,7 +23,7 @@ body{
     padding-top: 15px;
 }
 
-/*##################### TOP-TABS ###############*/
+/* TOP-TABS*/
 
 #tabs-top{
     position: fixed;
@@ -47,13 +47,14 @@ body{
     padding-top: 12px;
 }
 
-/*##################### MAIN-HOME ###############*/
+/* MAIN-HOME*/
 
 #main-home{
     margin-top: 120px;
+
 }
 
-/*##################### BOTTOM-TABS ###############*/
+/*BOTTOM-TABS*/
 
 #tabs-bottom{
     position: fixed;
@@ -77,7 +78,7 @@ body{
     padding-top: 12px;
 }
 
-/*##################### MAIN ###############*/
+/*MAIN*/
 
 #main{
     margin-top: 119px;
@@ -91,7 +92,7 @@ body{
     padding-bottom: 50px;
 }
 
-/*##################### INFO BOX ###############*/
+/* INFO BOX */
 
 a.info-box{
     text-decoration: none;
@@ -130,7 +131,7 @@ a.info-box{
     height: 40px;
 }
 
-/*##################### INFO BOX FULL ###############*/
+/*INFO BOX FULL*/
 
 #info-box-full{
     background-color: rgba(255, 255, 255, .8);
@@ -149,7 +150,7 @@ a.info-box{
     text-align: center;
 }
 
-/*##################### WEATHER ###############*/
+/* WEATHER*/
 
 img.info-box-weather-icon{
     height: 30px;
@@ -173,7 +174,7 @@ td{
     border-top: 1px solid #131313;
 }
 
-/*##################### FORM ###############*/
+/*FORM*/
 
 input{
     width: 100%;
